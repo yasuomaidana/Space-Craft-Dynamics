@@ -11,7 +11,7 @@ Center of Mass: $M\bm{R_c}= \int_B \bm{R}dm$
 
 $$M\bm{\ddot{R}_c} = \int_B \bm{\ddot{R}}dm = \int_B d\bm{F}$$
 
-Then: 
+Then:
 $$M\bm{\ddot{R}} = \bm{F}$$
 
 > $\bm{F_e}$ and $\bm{F_I}$ are external and internal forces respectively
