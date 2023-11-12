@@ -1,6 +1,6 @@
 # Kinetic Energy
 
-![Free Body Diagram](./3D%20free%20body%20diagram.jpg)
+![Free Body Diagram](../3D%20free%20body%20diagram.jpg)
 
 Definition: $$T = \frac{1}{2}\int_B\bm{\dot{R}}\cdot\bm{\dot{R}}dm$$
 

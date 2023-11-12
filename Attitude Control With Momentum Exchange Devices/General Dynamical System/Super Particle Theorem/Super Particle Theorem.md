@@ -1,6 +1,6 @@
 # Super Particle Theorem
 
-![3D free body diagram](./3D%20free%20body%20diagram.jpg)
+![3D free body diagram](../3D%20free%20body%20diagram.jpg)
 Newton's law: $d\bm{F} = \bm{\ddot{R}} dm$
 
 Force's vector: $d\bm{F} = \bm{F_E} + \bm{F_I}$
