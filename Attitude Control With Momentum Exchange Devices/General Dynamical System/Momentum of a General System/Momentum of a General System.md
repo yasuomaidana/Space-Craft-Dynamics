@@ -15,7 +15,7 @@ $$\bm{F} = \frac{{}^Nd}{dt}(\bm{p})$$
 
 ## Angular Momentum
 
-![fbd](./3D%20free%20body%20diagram.jpg)
+![fbd](../3D%20free%20body%20diagram.jpg)
 
 Angular momentum around P:
 $$\bm{H}_p = \int_B\bm{\sigma}\times\bm{\dot{\sigma}}dm$$
