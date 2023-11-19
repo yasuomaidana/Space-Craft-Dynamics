@@ -18,3 +18,4 @@ $\bm{\dot{x}} = \bm{f}(\bm{x},t)$ at time $t_0$ if $$\bm{f}(\bm{x}_c,t)=0 \ \for
 $$\bm{\dot{x}}_c = 0 \space \bm{x}_c=\text{constant}$$
 
 ![neighborhood and stabilities](./neighborhood%20and%20stabilities.jpg)
+![asymptotic stability](./Asymptotic%20stability.jpg)
