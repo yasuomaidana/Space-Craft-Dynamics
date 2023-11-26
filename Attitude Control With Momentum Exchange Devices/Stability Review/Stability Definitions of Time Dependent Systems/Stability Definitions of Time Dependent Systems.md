@@ -53,7 +53,7 @@ Assume $\bm{\dot{x}} = \bm{f}(\bm{x})$. Stability for this non-autonomous system
 
 $$V=V(\bm{x}) \quad \dot{V}=\dot{V}(\bm{x})$$
 
-#### Time varying feedback gain Example:
+#### Time varying feedback gain Example
 
 Let $\ddot{x} + kx = u$ wth $k > 0$.
 
