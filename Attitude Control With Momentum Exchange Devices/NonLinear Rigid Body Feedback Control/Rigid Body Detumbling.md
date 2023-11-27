@@ -41,3 +41,5 @@ $$\bm{Q} = [\bm{\tilde{\omega}}][\bm{I}]\bm{\omega} - [\bm{I}]\bm{\omega}\times\
 Then:
 $$\dot{V}(\bm{\omega})=-\delta\bm{\omega}^T[\bm{P}]\delta\bm{\omega}<0$$
 Which ensures that $V$ is globally asymptotically stabilizing
+
+> **Note**: These controls do not require any knowledge of the inertia matrix. It is very robust to inertia modeling errors.
