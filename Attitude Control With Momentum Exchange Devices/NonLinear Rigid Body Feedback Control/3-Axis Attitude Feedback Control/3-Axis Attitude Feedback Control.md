@@ -27,3 +27,12 @@ differential equations:
 $$\dot{\bm{\sigma}}=\frac{1}{4}\left[
     (1-\bm{\sigma}^2)\bm{I}+2[\tilde{\bm{\sigma}} + 2 \bm{\sigma}\bm{\sigma}^T]
     \right]\delta\bm{\omega}$$
+
+Lyapunov fincton definition:
+$$V(\bm{\omega,\bm{\sigma}})=\frac{1}{2}\delta\bm{\omega}^T\bm[I]\delta\bm{\omega}+2K\ln{\left(1+\bm{\sigma}^T\bm{\sigma}\right)}$$
+> * $\frac{1}{2}\delta\bm{\omega}^T\bm[I]\delta\bm{\omega}$ is the kinetic energy like p.d. function
+> * $2K\ln{\left(1+\bm{\sigma}^T\bm{\sigma}\right)}$ p.d. MRP attitude error function
+</br>
+</br>
+> Note that the angular rate and inertia components are taken with respect to the body frame.
+> $$[\bm{\dot{I}}] \Rightarrow \frac{{}^\mathcal{B}d}{dt}\left([\bm{I}]\right) = 0 \quad\quad \delta\dot{\bm{\omega}}\Rightarrow \frac{{}^\mathcal{B}d}{dt}\left(\delta\bm{\omega}\right)$$
