@@ -25,7 +25,7 @@ $$\delta\bm{\omega} = \bm{\omega} - \bm{\omega}_r\rightarrow0 \quad \bm{\sigma}\
 Exact attitude tracking error kinematic
 differential equations:
 $$\dot{\bm{\sigma}}=\frac{1}{4}\left[
-    (1-\bm{\sigma}^2)\bm{I}+2[\tilde{\bm{\sigma}} + 2 \bm{\sigma}\bm{\sigma}^T]
+    (1-\bm{\sigma}^2)\bm{I}+2[\tilde{\bm{\sigma}}] + 2 \bm{\sigma}\bm{\sigma}^T
     \right]\delta\bm{\omega}$$
 
 Lyapunov fincton definition:
